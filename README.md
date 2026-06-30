@@ -22,7 +22,8 @@
 
 ## Download the Workbook
 The full Excel workbook is available here:
-[Download EXCEL_PROJECT2.xlsx](https://docs.google.com/spreadsheets/d/14amwyFYG85vxCMeLIgDDJQouPI83PaHv/edit?usp=sharing&ouid=109714892173054151624&rtpof=true&sd=true)
+[nykaa_project.xlsx](https://docs.google.com/spreadsheets/d/14amwyFYG85vxCMeLIgDDJQouPI83PaHv/edit?usp=sharing&ouid=109714892173054151624&rtpof=true&sd=true)
+
 This real-life simulation project is a full end-to-end marketing analytics workbook built for a fictional Nykaa's Marketing Analytics team. It covers **FY 2024-25 (July 2024 – June 2025)** and analyses the performance of **44,026 digital marketing campaigns** across five channels, five regions, six campaign objectives, and four audience segments.
 
 The deliverable was commissioned by **Divya Nair, Head of Marketing Analytics**(fictional), for presentation to the **VP of Marketing and CFO**. Budget allocation decisions for Q3 FY 2025-26 depend directly on the findings in this workbook.
@@ -406,5 +407,5 @@ To add a new channel, region, or time period:
 
    ## Download the Workbook
 The full Excel workbook is available here:
-[Download EXCEL_PROJECT2.xlsx](https://docs.google.com/spreadsheets/d/14amwyFYG85vxCMeLIgDDJQouPI83PaHv/edit?usp=sharing&ouid=109714892173054151624&rtpof=true&sd=true)
+[nykaa_project.xlsx](https://docs.google.com/spreadsheets/d/14amwyFYG85vxCMeLIgDDJQouPI83PaHv/edit?usp=sharing&ouid=109714892173054151624&rtpof=true&sd=true)
 
