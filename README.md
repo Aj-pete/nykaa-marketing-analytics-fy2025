@@ -20,9 +20,9 @@
 
 ## 1. Project Overview
 
-This project is a full end-to-end marketing analytics workbook built for Nykaa's Marketing Analytics team. It covers **FY 2024-25 (July 2024 – June 2025)** and analyses the performance of **44,026 digital marketing campaigns** across five channels, five regions, six campaign objectives, and four audience segments.
+This real-life simulation project is a full end-to-end marketing analytics workbook built for a fictional Nykaa's Marketing Analytics team. It covers **FY 2024-25 (July 2024 – June 2025)** and analyses the performance of **44,026 digital marketing campaigns** across five channels, five regions, six campaign objectives, and four audience segments.
 
-The deliverable was commissioned by **Divya Nair, Head of Marketing Analytics**, for presentation to the **VP of Marketing and CFO**. Budget allocation decisions for Q3 FY 2025-26 depend directly on the findings in this workbook.
+The deliverable was commissioned by **Divya Nair, Head of Marketing Analytics**(fictional), for presentation to the **VP of Marketing and CFO**. Budget allocation decisions for Q3 FY 2025-26 depend directly on the findings in this workbook.
 
 | Metric | Value |
 |---|---|
@@ -401,19 +401,3 @@ To add a new channel, region, or time period:
 2. Ensure the Campaign_Type and Region_Cluster values match the five canonical values already in use
 3. Refresh All — the analysis propagates automatically
 
----
-
-## Project Credits
-
-| Role | Detail |
-|---|---|
-| Analyst | Marketing Analytics Team — Nykaa |
-| Stakeholders | Divya Nair (Head of Marketing Analytics), VP Marketing, CFO |
-| Data Source | Nykaa internal campaign management system |
-| Analysis Period | 01 July 2024 – 24 June 2025 |
-| Deliverable Date | Q2 FY 2025-26 |
-| Currency | USD (₹84 = $1, FY 2024-25 average) |
-
----
-
-*This document is confidential and prepared for internal Nykaa use only. All financial figures are in USD unless otherwise stated. Raw figures in INR are available in the source columns of the RAW_Data sheet.*
