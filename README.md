@@ -21,7 +21,7 @@
 ## 1. Project Overview
 
 ## Download the Workbook
-The full Excel workbook is available here:
+Note; download to get a better viewing experience. The full Excel workbook is available here:
 [nykaa_project.xlsx](https://docs.google.com/spreadsheets/d/14amwyFYG85vxCMeLIgDDJQouPI83PaHv/edit?usp=sharing&ouid=109714892173054151624&rtpof=true&sd=true)
 
 This real-life simulation project is a full end-to-end marketing analytics workbook built for a fictional Nykaa's Marketing Analytics team. It covers **FY 2024-25 (July 2024 – June 2025)** and analyses the performance of **44,026 digital marketing campaigns** across five channels, five regions, six campaign objectives, and four audience segments.
